@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🌟 Nicole Rito
 
-<!--
-**NickRito/NickRito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vinda(o) ao meu perfil do GitHub! 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Sobre mim
+Sou iniciante em programação, apaixonada por aprender e explorar novas tecnologias. Atualmente, estou trabalhando com:
+
+- **PowerShell**
+- **Desenvolvimento de sites**
+- Sempre buscando novos desafios! 💡
+
+---
+
+## 📂 Meus Projetos
+- [💇‍♀️ Site para cabeleireira](https://github.com/seuusuario/seu-projeto-1)
+- [📜 Script em PowerShell](https://github.com/seuusuario/seu-projeto-2)
+
+---
+
+## 📬 Contato
+📧 **Email:** [ritonicole10@gmail.com](mailto:ritonicole10@gmail.com)  
+🌐 **Website:** [Nicole Rito](https://seusite.com)  
+
+---
+
+_Obrigada por visitar meu perfil!_ ✨
