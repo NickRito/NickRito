@@ -15,7 +15,7 @@ Sou iniciante em programação, apaixonada por aprender e explorar novas tecnolo
 
 ## 📂 Meus Projetos
 - [💇‍♀️ Site para cabeleireira](https://github.com/seuusuario/seu-projeto-1)
-- [📜 Script em PowerShell](https://github.com/seuusuario/seu-projeto-2)
+- [🅿️ Sistema de gerenciamento de estacionamento](https://github.com/NickRito/SistemaGerenciamentoEstacionamento?tab=readme-ov-file)
 
 ---
 
