@@ -21,7 +21,6 @@ Sou iniciante em programação, apaixonada por aprender e explorar novas tecnolo
 
 ## 📬 Contato
 📧 **Email:** [ritonicole10@gmail.com](mailto:ritonicole10@gmail.com)  
-🌐 **Website:** [Nicole Rito](https://seusite.com)  
 
 ---
 
