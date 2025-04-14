@@ -8,6 +8,7 @@ Bem-vinda(o) ao meu perfil do GitHub! 🚀
 Sou iniciante em programação, apaixonada por aprender e explorar novas tecnologias. Atualmente, estou trabalhando com:
 
 - **PowerShell**
+- **Java**
 - **Desenvolvimento de sites**
 - Sempre buscando novos desafios! 💡
 
