@@ -1,28 +1,18 @@
-# 🌟 Nicole Rito
+# Nicole Rito
 
-Bem-vinda(o) ao meu perfil do GitHub! 🚀
+Backend Developer com experiência em projetos reais com clientes.
+Atuo com Java, Python e React — e aprendo novas tecnologias conforme o problema exige.
 
----
+## Stack atual
 
-## 🖥️ Sobre mim
-Sou iniciante em programação, apaixonada por aprender e explorar novas tecnologias. Atualmente, estou trabalhando com:
+- **Backend:** Java, Spring Boot, JPA, Hibernate, .NET/C#
+- **Dados:** PostgreSQL, MySQL, BigQuery, SQL
+- **Automação:** Python, PowerShell, Flyway
+- **Frontend:** React.js, TypeScript, JavaScript
+- **Testes:** JUnit, Mockito
+- **Ferramentas:** Git, GitHub, Apache Tomcat
 
-- **PowerShell**
-- **Java**
-- **Desenvolvimento de sites**
-- Sempre buscando novos desafios! 💡
+## Contato
 
----
-
-## 📂 Meus Projetos
-- [💇‍♀️ Site para cabeleireira](https://github.com/seuusuario/seu-projeto-1)
-- [🅿️ Sistema de gerenciamento de estacionamento](https://github.com/NickRito/SistemaGerenciamentoEstacionamento?tab=readme-ov-file)
-
----
-
-## 📬 Contato
-📧 **Email:** [ritonicole10@gmail.com](mailto:ritonicole10@gmail.com)  
-
----
-
-_Obrigada por visitar meu perfil!_ ✨
+- Email: ritonicole10@gmail.com
+- LinkedIn: [linkedin.com/in/nicole-rito](https://linkedin.com/in/nicole-rito)
